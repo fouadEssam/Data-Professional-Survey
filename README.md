@@ -74,9 +74,13 @@ Pie charts to Show How happy are you with work-life balance and Salary:
 ## Conclusion
 
 -The survey had 630 respondents, mostly from the USA, with an average age of 29.8 years.
+
 -Data professionals rate their salary satisfaction at 4.7/10 and work-life balance at 5.74/10, indicating moderate contentment with room for improvement.
+
 -Python is the preferred programming language, while Java is least favored.
+
 -There’s a slight gender pay gap, with males earning 55% on average and females 53%.
+
 -Entry into the data field is viewed as moderately challenging, with 24% finding it difficult, 21% easy, and 42% neutral.
 
 
